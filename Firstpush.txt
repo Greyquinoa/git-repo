@@ -1,3 +1,0 @@
-This a program to check first push
-
-this is staged but not commited
