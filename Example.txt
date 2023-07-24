@@ -3,3 +3,5 @@ the unwanted staged change
 
 
 I am making this change in branch refactor
+parallelchange 1
+Parallel chane2
