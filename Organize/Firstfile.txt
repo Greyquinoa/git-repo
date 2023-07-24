@@ -1,5 +1,0 @@
-This is an example
-this is my first edit
-another change
-addtion to improve performance
-changes saved but not staged
