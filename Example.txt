@@ -1,3 +1,5 @@
 This is frist line
 the unwanted staged change
+New change
+
 This is an update 
