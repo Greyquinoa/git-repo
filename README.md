@@ -1,1 +1,1 @@
-[![freeCodeCamp Social Banner](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)](https://www.freecodecamp.org/)
+[![freeCodeCamp Social Banner](https://github.com/Anirudh-Pawar/git-repo/blob/main/1646728837945.jpg)](https://www.freecodecamp.org/)
